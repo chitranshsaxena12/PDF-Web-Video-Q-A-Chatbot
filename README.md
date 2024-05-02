@@ -19,7 +19,7 @@ This repository hosts a sophisticated question and chatbot leveraging the power 
 ## Getting Started:
 1. Clone this repository.
 2. Install the required dependencies.
-3. Run the application and start interacting with the chatbot.
+3. run streamlit app using streamlit run main.py.
 
 Here is the interface image
 ![image](https://github.com/chitranshsaxena12/QueAns_Chatbot_with_pdf_web_video/assets/99011555/16c3026b-2682-464d-9c81-507be416bc7e)
